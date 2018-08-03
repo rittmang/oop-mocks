@@ -1,6 +1,19 @@
+/*
+_________________________________________________
+|              DO NOT COPY THIS       			|
+|               STUPID PROGRAM.       			|	
+|												|
+|												|
+|			NOT THAT THIS WILL TEACH			| 
+|               YOU NOTHING.					|
+|												|	
+|		© 2018 @rittmang / Ritom Gupta			|
+|												|
+|				I OWN THIS. ;)					|
+|_______________________________________________|
+*/
 #include<iostream>
 #include<string>
-#include<stdlib.h>
 using namespace std;
 class StudentDB
 {
@@ -25,7 +38,7 @@ class StudentDB
 		{
 			cout<<"\nInvalid DOB. Goodbye!";exit(0);
 		}
-		if(std::to_string(t).length()!=10 | (std::to_string(t)[0]!='7' && std::to_string(t)[0]!='8' && std::to_string(t)[0]!='9' ))
+		if(to_string(t).length()!=10 | (to_string(t)[0]!='7' && to_string(t)[0]!='8' && to_string(t)[0]!='9' ))
 		{
 			cout<<"\nInvalid Indian Number. Goodbye!";exit(0);
 		}

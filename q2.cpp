@@ -1,3 +1,17 @@
+/*
+_________________________________________________
+|              DO NOT COPY THIS       			|
+|               STUPID PROGRAM.       			|	
+|												|
+|												|
+|			NOT THAT THIS WILL TEACH			| 
+|               YOU NOTHING.					|
+|												|	
+|		© 2018 @rittmang / Ritom Gupta			|
+|												|
+|				I OWN THIS. ;)					|
+|_______________________________________________|
+*/
 #include<iostream>
 #include<string>
 using namespace std;
